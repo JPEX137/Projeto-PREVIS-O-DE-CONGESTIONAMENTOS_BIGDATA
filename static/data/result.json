@@ -1,0 +1,134 @@
+[
+  {
+    "regiao":"SER 11",
+    "lixo":94,
+    "alagamento":24,
+    "idh":0.31,
+    "risco_geo":2.91,
+    "risco_inundacao":33.89,
+    "densidade_drenagem":1.13,
+    "cluster":"Alto",
+    "predict":"ALERTA GERAL: Combinação de múltiplos fatores indica vulnerabilidade severa a eventos extremos."
+  },
+  {
+    "regiao":"SER 8",
+    "lixo":72,
+    "alagamento":11,
+    "idh":0.259,
+    "risco_geo":1.11,
+    "risco_inundacao":27.2,
+    "densidade_drenagem":0.69,
+    "cluster":"Médio",
+    "predict":"ATENÇÃO: Déficit de infraestrutura detectado. Se as chuvas intensificarem, a capacidade de escoamento será superada rapidamente."
+  },
+  {
+    "regiao":"SER 10",
+    "lixo":98,
+    "alagamento":6,
+    "idh":0.258,
+    "risco_geo":2.96,
+    "risco_inundacao":23.25,
+    "densidade_drenagem":0.93,
+    "cluster":"Alto",
+    "predict":"ALERTA GERAL: Combinação de múltiplos fatores indica vulnerabilidade severa a eventos extremos."
+  },
+  {
+    "regiao":"SER 9",
+    "lixo":30,
+    "alagamento":16,
+    "idh":0.206,
+    "risco_geo":0.78,
+    "risco_inundacao":34.16,
+    "densidade_drenagem":1.11,
+    "cluster":"Médio",
+    "predict":"MONITORAMENTO: Áreas pontuais de risco. Manter limpeza preventiva para evitar agravamento."
+  },
+  {
+    "regiao":"SER 6",
+    "lixo":26,
+    "alagamento":14,
+    "idh":0.357,
+    "risco_geo":0.46,
+    "risco_inundacao":24.6,
+    "densidade_drenagem":0.24,
+    "cluster":"Médio",
+    "predict":"ATENÇÃO: Déficit de infraestrutura detectado. Se as chuvas intensificarem, a capacidade de escoamento será superada rapidamente."
+  },
+  {
+    "regiao":"SER 7",
+    "lixo":67,
+    "alagamento":14,
+    "idh":0.444,
+    "risco_geo":0.39,
+    "risco_inundacao":29.71,
+    "densidade_drenagem":0.09,
+    "cluster":"Médio",
+    "predict":"ATENÇÃO: Déficit de infraestrutura detectado. Se as chuvas intensificarem, a capacidade de escoamento será superada rapidamente."
+  },
+  {
+    "regiao":"SER 4",
+    "lixo":85,
+    "alagamento":12,
+    "idh":0.492,
+    "risco_geo":0.0,
+    "risco_inundacao":18.05,
+    "densidade_drenagem":1.76,
+    "cluster":"Baixo",
+    "predict":"ESTÁVEL: Baixa probabilidade de grandes desastres, mas requer manutenção da infraestrutura existente."
+  },
+  {
+    "regiao":"SER 5",
+    "lixo":105,
+    "alagamento":6,
+    "idh":0.193,
+    "risco_geo":3.39,
+    "risco_inundacao":36.13,
+    "densidade_drenagem":0.41,
+    "cluster":"Alto",
+    "predict":"ALERTA GERAL: Combinação de múltiplos fatores indica vulnerabilidade severa a eventos extremos."
+  },
+  {
+    "regiao":"SER 2",
+    "lixo":49,
+    "alagamento":13,
+    "idh":0.694,
+    "risco_geo":1.37,
+    "risco_inundacao":4.67,
+    "densidade_drenagem":0.31,
+    "cluster":"Baixo",
+    "predict":"ESTÁVEL: Baixa probabilidade de grandes desastres, mas requer manutenção da infraestrutura existente."
+  },
+  {
+    "regiao":"SER 3",
+    "lixo":29,
+    "alagamento":18,
+    "idh":0.47,
+    "risco_geo":2.42,
+    "risco_inundacao":19.42,
+    "densidade_drenagem":0.64,
+    "cluster":"Baixo",
+    "predict":"ESTÁVEL: Baixa probabilidade de grandes desastres, mas requer manutenção da infraestrutura existente."
+  },
+  {
+    "regiao":"SER 1",
+    "lixo":42,
+    "alagamento":4,
+    "idh":0.299,
+    "risco_geo":5.82,
+    "risco_inundacao":24.06,
+    "densidade_drenagem":0.28,
+    "cluster":"Alto",
+    "predict":"ALERTA GERAL: Combinação de múltiplos fatores indica vulnerabilidade severa a eventos extremos."
+  },
+  {
+    "regiao":"SER 12",
+    "lixo":5,
+    "alagamento":1,
+    "idh":0.638,
+    "risco_geo":0.0,
+    "risco_inundacao":0.0,
+    "densidade_drenagem":0.37,
+    "cluster":"Baixo",
+    "predict":"ESTÁVEL: Baixa probabilidade de grandes desastres, mas requer manutenção da infraestrutura existente."
+  }
+]
